@@ -68,7 +68,7 @@
     },
     appeared: {
       en: "✨ Wild {n} appeared!",
-      zh_tw: "✨ 野生的 {名} 出現了！",
+      zh_tw: "✨ 野生的 {n} 出現了！",
       zh_cn: "✨ 野生的 {n} 出现了！",
     },
     loading_name: {
